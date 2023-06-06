@@ -1,0 +1,189 @@
+[
+    {
+        "nombreDelAccesorio": "Sensor de estacionamiento trasero",
+        "descripcionAccesorio": "Embellecedor de manijas de apertura de puertas.",
+        "codigoAccesorio": "A1",
+        "vehiculosCompatibles": ["Hilux", "Corolla", "Yaris"],
+        "precioAccesorioEnPesos": 50000,
+        "anioLanzamiento": 2019,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio1.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Barras porta equipaje Hilux",
+        "descripcionAccesorio": "Barras porta equipaje sobre techo",
+        "codigoAccesorio": "A2",
+        "vehiculosCompatibles": ["Hilux"],
+        "precioAccesorioEnPesos": 110000,
+        "anioLanzamiento": 2018,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio2.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Barra De Lujo Cromada C",
+        "descripcionAccesorio": "Accesorio decorativo, que protege la cabina y asiste para la carga",
+        "codigoAccesorio": "A3",
+        "vehiculosCompatibles": ["Hilux"],
+        "precioAccesorioEnPesos": 170000,
+        "anioLanzamiento": 2020,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio3.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Gancho De Arrastre 3500 Kg",
+        "descripcionAccesorio": "Enganche para arrastre de cargas.",
+        "codigoAccesorio": "A4",
+        "vehiculosCompatibles": ["Hilux"],
+        "precioAccesorioEnPesos": 130000,
+        "anioLanzamiento": 2015,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio4.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Gancho De Arrastre 750 Kg",
+        "descripcionAccesorio": "Enganche para arrastre de cargas.",
+        "codigoAccesorio": "A5",
+        "vehiculosCompatibles": ["Hilux"],
+        "precioAccesorioEnPesos": 100000,
+        "anioLanzamiento": 2014,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio5.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Embellecedor cromado de manija",
+        "descripcionAccesorio": "Embellecedor de manijas de apertura de puertas.",
+        "codigoAccesorio": "A6",
+        "vehiculosCompatibles": ["Hilux", "Corolla", "Yaris"],
+        "precioAccesorioEnPesos":  40000,
+        "anioLanzamiento": 2013,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio6.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Tuercas De Seguridad",
+        "descripcionAccesorio": "Protección ante el robo de ruedas.",
+        "codigoAccesorio": "A7",
+        "vehiculosCompatibles": ["Hilux", "Corolla", "Yaris"],
+        "precioAccesorioEnPesos":  20000,
+        "anioLanzamiento": 2010,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio7.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Cargador inalámbrico",
+        "descripcionAccesorio": "Cargador inalámbrico.",
+        "codigoAccesorio": "A8",
+        "vehiculosCompatibles": ["Corolla", "Yaris"],
+        "precioAccesorioEnPesos": 100000,
+        "anioLanzamiento": 2019,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio8.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Llanta de aleación 18¨",
+        "descripcionAccesorio": "Llanta de aleación 18¨",
+        "codigoAccesorio": "A9",
+        "vehiculosCompatibles": ["Corolla"],
+        "precioAccesorioEnPesos":  80000,
+        "anioLanzamiento": 2019,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio9.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Llanta de aleación deportiva 15¨",
+        "descripcionAccesorio": "Llanta de aleación deportiva 15¨",
+        "codigoAccesorio": "A10",
+        "vehiculosCompatibles": ["Yaris"],
+        "precioAccesorioEnPesos":  70000,
+        "anioLanzamiento": 2018,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio10.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Barra deportiva",
+        "descripcionAccesorio": "Nueva barra deportiva",
+        "codigoAccesorio": "A11",
+        "vehiculosCompatibles": ["Hilux"],
+        "precioAccesorioEnPesos": 130000,
+        "anioLanzamiento": 2020,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio11.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Barras porta equipaje Corolla",
+        "descripcionAccesorio": "Barras porta equipaje sobre techo",
+        "codigoAccesorio": "A12",
+        "vehiculosCompatibles": ["Corolla"],
+        "precioAccesorioEnPesos": 100000,
+        "anioLanzamiento": 2017,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio12.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Sensor de Estacionamiento Delantero",
+        "descripcionAccesorio": "Sensor de Estacionamiento Delantero",
+        "codigoAccesorio": "A13",
+        "vehiculosCompatibles": ["Corolla", "Yaris"],
+        "precioAccesorioEnPesos": 80000,
+        "anioLanzamiento": 2016,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio13.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Zócalo de aluminio Corolla",
+        "descripcionAccesorio": "Embellecedor y protector de zócalos del vehículo",
+        "codigoAccesorio": "A14",
+        "vehiculosCompatibles": ["Corolla"],
+        "precioAccesorioEnPesos": 30000,
+        "anioLanzamiento": 2017,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio14.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Porta Bicicleta Derecho",
+        "descripcionAccesorio": "Accesorio para el transporte simple y seguro de bicicletas",
+        "codigoAccesorio": "A15",
+        "vehiculosCompatibles": ["Corolla", "Yaris"],
+        "precioAccesorioEnPesos": 30000,
+        "anioLanzamiento": 2018,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio15.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Conjunto Protector de Paragolpe ",
+        "descripcionAccesorio": "Protege el paragolpes y el vehículo contra pequeños golpes y rayones",
+        "codigoAccesorio": "A16",
+        "vehiculosCompatibles": ["Yaris"],
+        "precioAccesorioEnPesos": 40000,
+        "anioLanzamiento": 2019,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio16.jpeg"
+    },
+    {
+        "nombreDelAccesorio": "Zócalo de aluminio Yaris",
+        "descripcionAccesorio": "Embellecedor y protector de zócalos del vehículo",
+        "codigoAccesorio": "A17",
+        "vehiculosCompatibles": ["Yaris"],
+        "precioAccesorioEnPesos": 30000,
+        "anioLanzamiento": 2017,
+        "stockAccesorio": 0,
+        "disponibilidadAccesorio": false,
+        "imagenAccesorio": "./media/accesorio17.jpeg"
+    }
+]

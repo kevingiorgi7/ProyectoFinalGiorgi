@@ -1,0 +1,124 @@
+@font-face {
+    font-family: 'toyota';
+    src: url(./font/ToyotaText_Rg.ttf);
+}
+body {
+    font-family: 'toyota', sans-serif;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 20px;
+    margin: 3rem;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0.5rem;
+}
+.card .card-body {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.card .card-footer {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+#botonCarrito {
+    margin: 0px;
+}
+
+.botonSinStock {
+    color: red !important;
+}
+
+.card-header {
+    color:white;
+    background-color: black;
+}
+
+button.active {
+    border: 0.25rem solid rgb(192, 68, 68) !important;
+    color: rgb(192, 68, 68) !important;
+}
+
+.formulario {
+    background-color: rgb(205, 197, 197);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.titulo-form {
+    font-weight: bold;
+    color: rgb(98, 26, 26);
+}
+
+.subtitulo-form {
+    font-weight: bold;
+    color: rgb(47, 11, 11);
+}
+
+.menu-item {
+    font-size: 1.5rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem ;
+}
+
+.izq {
+    font-weight: bold;
+    color: rgb(47, 11, 11);
+    text-align: start;
+    padding-left: 1px;
+    padding-right: 0px;
+    padding-top: 0.5rem;
+}
+
+.der {
+    font-weight: bold;
+    color: rgb(47, 11, 11);
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0.5rem;
+}
+
+.izq-acc {
+    color: rgb(98, 26, 26);
+    font-weight: bold;
+    text-align: start;
+    padding-left: 1px;
+    padding-right: 0px;
+    padding-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.der-acc {
+    color: rgb(47, 11, 11);
+    padding-left: 0px ;
+    padding-right: 0px;
+    padding-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+#carrito {
+    color: rgb(98, 26, 26);
+}
+
+.accesorios-en-carrito:hover {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.totalcompra {
+    color: rgb(98, 26, 26);
+}
+
+.width-card {
+    width: 18rem;
+}
