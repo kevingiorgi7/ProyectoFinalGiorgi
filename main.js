@@ -10,7 +10,6 @@ const accesoriosComercializados = [];
 const obtenerAccesorios = async () => {
     const resp = await fetch("./accesorios.json")
     const data = await resp.json()
-    console.log(data)
     data.forEach((accesorio) => {
         accesoriosComercializados.push(accesorio)
     })
@@ -18,6 +17,7 @@ const obtenerAccesorios = async () => {
     verificarDisponibilidad(accesoriosComercializados);
     botonTodos.click();
     actualizarHTMLCarrito()
+    console.log(accesoriosComercializados)
     };
 obtenerAccesorios();
 
@@ -291,7 +291,6 @@ function actualizarHTMLCarrito() {
     actualizarStockVenta()
     botonSinStock()
     sumarAtotal()
-    console.log(accesoriosComercializados)
 }
 
 // Funcion para actualizar el total
