@@ -1,6 +1,5 @@
 // Array de productos comercializados
-const accesoriosComercializados = [
-];
+const accesoriosComercializados = [];
 
 // Con una funcion se utiliza FETCH para traer los productos desde el archivo local JSON
 // Se agregan al array de productos comercializados
